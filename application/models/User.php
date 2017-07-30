@@ -1,4 +1,4 @@
-<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+<?php 
 class User extends CI_Model{
     function __construct() {
         $this->userTbl = 'users';

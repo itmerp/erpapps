@@ -63,3 +63,4 @@ $route['(:any)'] = 'pages/view/$1';
 $route['userregi'] = 'users/registration';
 $route['userlogin'] = 'users/login';
 $route['userprofile'] = 'users/account';
+$route['userlog'] = 'users/logout';
